@@ -8,6 +8,11 @@ Initialize a GitHub repository
 Deploy your app with AWS Amplify
 Implement code changes and redeploy your app
 
+## Key Concepts
+API – Provides a programming interface that allows communication and interactions between multiple software intermediaries.
+
+GraphQL – A query language and server-side API implementation based on a typed representation of your application. This API representation is declared using a schema based on the GraphQL type system. (To learn more about GraphQL, visit this page.)
+
 https://morioh.com/p/131b41783c2e?f=5c224490c513a556c9042463&fbclid=IwAR36jptsv8nGdyL3KG74LdYiTCPZICiyqDatUAzZC6480MjX1O5cZjheg3g
 
 
