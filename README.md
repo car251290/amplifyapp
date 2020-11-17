@@ -18,6 +18,11 @@ In this step, you will connect the GitHub repository you just created to the AWS
 
 a. In the AWS Amplify service console, select "Get Started" under Deploy.
 
+## Automatically deploy code changes
+In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
+
+In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
+
 https://morioh.com/p/131b41783c2e?f=5c224490c513a556c9042463&fbclid=IwAR36jptsv8nGdyL3KG74LdYiTCPZICiyqDatUAzZC6480MjX1O5cZjheg3g
 
 
