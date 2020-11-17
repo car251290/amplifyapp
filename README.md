@@ -13,6 +13,11 @@ API – Provides a programming interface that allows communication and interacti
 
 GraphQL – A query language and server-side API implementation based on a typed representation of your application. This API representation is declared using a schema based on the GraphQL type system. (To learn more about GraphQL, visit this page.)
 
+## Deploy your app with AWS Amplify
+In this step, you will connect the GitHub repository you just created to the AWS Amplify service. This will enable you to build, deploy, and host your app on AWS.
+
+a. In the AWS Amplify service console, select "Get Started" under Deploy.
+
 https://morioh.com/p/131b41783c2e?f=5c224490c513a556c9042463&fbclid=IwAR36jptsv8nGdyL3KG74LdYiTCPZICiyqDatUAzZC6480MjX1O5cZjheg3g
 
 
