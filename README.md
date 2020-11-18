@@ -10,6 +10,7 @@ Implement code changes and redeploy your app
 
 ## Key Concepts
 API – Provides a programming interface that allows communication and interactions between multiple software intermediaries.
+without this API the application will be so different and cannot get data
 
 GraphQL – A query language and server-side API implementation based on a typed representation of your application. This API representation is declared using a schema based on the GraphQL type system. (To learn more about GraphQL, visit this page.)
 
