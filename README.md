@@ -1,8 +1,8 @@
 # Getting Started with Create React App and deploying to AWS
 
-In this module, we’ll begin by creating a new React application and push it to a GitHub repository. Then, we will connect the repository to AWS Amplify web hosting and deploy it to a globally available content delivery network (CDN) hosted on an amplifyapp.com domain. Next, we’ll demonstrate continuous deployment capabilities by making changes to the React application and push a new version to the master branch which will automatically kick off a new deployment.
+In this module, we’ll begin by creating a new React application and push it to a GitHub repository. Then, we will connect the repository to AWS Amplify web hosting and deploy it to a globally available content delivery network hosted on an amplifyapp.com domain. Next, we’ll demonstrate continuous deployment capabilities by making changes to the React application and push a new version to the master branch which will automatically kick off a new deployment.
 
-What You Will Learn
+## What I Will Learn
 Create a React application
 Initialize a GitHub repository
 Deploy your app with AWS Amplify
@@ -24,8 +24,6 @@ In this step, you will make some changes to the code using your text editor and 
 
 In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
 
-
- 
  ## Conclusion
 You have deployed a React application in the AWS Cloud by integrating with GitHub and using AWS Amplify. With AWS Amplify, you can continuously deploy your application in the cloud and host it on a globally-available CDN.
 
