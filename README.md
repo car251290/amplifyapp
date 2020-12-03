@@ -2,6 +2,8 @@
 
 In this module, we’ll begin by creating a new React application and push it to a GitHub repository. Then, we will connect the repository to AWS Amplify web hosting and deploy it to a globally available content delivery network hosted on an amplifyapp.com domain. Next, we’ll demonstrate continuous deployment capabilities by making changes to the React application and push a new version to the master branch which will automatically kick off a new deployment.
 
+Single page web apps offer native or desktop app-like performance. They offer all the static website benefits (low cost, high levels of reliability, no server adminstration, and scalability to handle enterprise-level traffic) with dynamic functionality and blazing fast performance.
+
 ## How AWS works
 AWS is separated into different services; each can be configured in different ways based on the user's needs. Users should be able to see configuration options and individual server maps for an AWS service.
 
@@ -22,7 +24,6 @@ Git – A version control system that allows developers to store files as well a
 
 ## Deploy your app with AWS Amplify
 In this step, you will connect the GitHub repository you just created to the AWS Amplify service. This will enable you to build, deploy, and host your app on AWS.
-
 a. In the AWS Amplify service console, select "Get Started" under Deploy.
 
 ## Automatically deploy code changes
