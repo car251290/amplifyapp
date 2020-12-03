@@ -2,6 +2,9 @@
 
 In this module, we’ll begin by creating a new React application and push it to a GitHub repository. Then, we will connect the repository to AWS Amplify web hosting and deploy it to a globally available content delivery network hosted on an amplifyapp.com domain. Next, we’ll demonstrate continuous deployment capabilities by making changes to the React application and push a new version to the master branch which will automatically kick off a new deployment.
 
+## How AWS works
+AWS is separated into different services; each can be configured in different ways based on the user's needs. Users should be able to see configuration options and individual server maps for an AWS service.
+
 ## What I Will Learn
 Create a React application
 Initialize a GitHub repository
@@ -15,7 +18,6 @@ without this API the application will be so different and cannot get data
 GraphQL – A query language and server-side API implementation based on a typed representation of your application. This API representation is declared using a schema based on the GraphQL type system. (To learn more about GraphQL, visit this page.
 
 React application – React is a web application framework that enables developers to quickly build performant single page applications using JavaScript.
-
 Git – A version control system that allows developers to store files as well as maintain and update relationships between files and directories, versions, and changes to the files.
 
 ## Deploy your app with AWS Amplify
@@ -25,8 +27,7 @@ a. In the AWS Amplify service console, select "Get Started" under Deploy.
 
 ## Automatically deploy code changes
 In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
-
-In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
+software as a service (SaaS) offerings. AWS services can offer an organization tools such as compute power, database storage and content delivery services.
 
  ## Conclusion
 You have deployed a React application in the AWS Cloud by integrating with GitHub and using AWS Amplify. With AWS Amplify, you can continuously deploy your application in the cloud and host it on a globally-available CDN.
