@@ -34,3 +34,13 @@ software as a service (SaaS) offerings. AWS services can offer an organization t
 You have deployed a React application in the AWS Cloud by integrating with GitHub and using AWS Amplify. With AWS Amplify, you can continuously deploy your application in the cloud and host it on a globally-available CDN.
 
 
+# Language 
+React(JS)
+
+# Requirements
+* Visual Studio
+* AWS Web packet
+* Macbook
+
+
+
