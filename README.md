@@ -29,6 +29,16 @@ a. In the AWS Amplify service console, select "Get Started" under Deploy.
 ## Automatically deploy code changes
 In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
 software as a service (SaaS) offerings. AWS services can offer an organization tools such as compute power, database storage and content delivery services.
+## Successful deploy
+AWS Amplify will now build your source code and deploy your app at https://...amplifyapp.com.
+ Once the build completes, select the thumbnail to see your web app up and running live.
+ 
+## Automatically deploy code changes
+In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
+
+In this step, you will make some changes to the code using your text editor and push the changes to the master branch of your app.
+
+a. Edit src/App.js with the code below and save.
 
  ## Conclusion
 You have deployed a React application in the AWS Cloud by integrating with GitHub and using AWS Amplify. With AWS Amplify, you can continuously deploy your application in the cloud and host it on a globally-available CDN.
