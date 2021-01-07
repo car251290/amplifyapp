@@ -13,6 +13,14 @@ Initialize a GitHub repository
 Deploy your app with AWS Amplify
 Implement code changes and redeploy your app
 
+# AWS Lambda 
+it is a serverless compute service that lets you run code without provisioning or managing servers, creating workload-aware cluster
+You can set up your code to automatically trigger from 140 AWS services or call it directly from any web or mobile app.
+
+# AWS Amplify 
+full stack applications, powered by AWS. With Amplify, you can configure app backends and connect your app in minutes, deploy static web apps in a few clicks, and easily manage app content outside the AWS console.
+
+
 ## Key Concepts
 API – Provides a programming interface that allows communication and interactions between multiple software intermediaries.
 without this API the application will be so different and cannot get data
