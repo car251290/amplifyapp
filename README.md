@@ -49,7 +49,7 @@ React(JS)
 
 # Requirements
 * Visual Studio
-* AWS Web packet
+* AWS Service
 * Macbook
 
 
