@@ -20,8 +20,6 @@ full stack applications, powered by AWS. With Amplify, you can configure app bac
 API – Provides a programming interface that allows communication and interactions between multiple software intermediaries.
 without this API the application will be so different and cannot get data
 
-GraphQL – A query language and server-side API implementation based on a typed representation of your application. This API representation is declared using a schema based on the GraphQL type system. (To learn more about GraphQL, visit this page.
-
 React application – React is a web application framework that enables developers to quickly build performant single page applications using JavaScript.
 Git – A version control system that allows developers to store files as well as maintain and update relationships between files and directories, versions, and changes to the files.
 
